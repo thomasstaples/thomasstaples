@@ -1,2 +1,1 @@
-- @thomasstaples
-- Software Engineer, EG Technology
+- @thomasstaples, Software Engineer, EG Technology
